@@ -1,0 +1,79 @@
+.base-filled {
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  padding: 8px;
+  transition: ease-in-out 0.3s;
+}
+
+.pink-filled {
+  background: #f333b0;
+  border: 3px solid #f46ce0;
+  box-shadow: 0px 0px 8px 4px #ff84d4;
+}
+
+.pink-filled:hover {
+  background: #f46ce0;
+  border: 3px solid #f46ce0;
+  box-shadow: 0px 0px 8px 4px #ff84d4;
+}
+
+.purple-filled {
+  background: #9c6ffe;
+  border: 3px solid #a681f5;
+  box-shadow: 0px 0px 8px 4px #ac86ff;
+}
+
+.purple-filled:hover {
+  background: #a681f5;
+  border: 3px solid #a681f5;
+  box-shadow: 0px 0px 8px 4px #ac86ff;
+}
+
+.sky-filled {
+  background: #b9e3ea;
+  border: 3px solid #b9e3ea;
+  box-shadow: 0px 0px 8px 4px #81e0ef;
+}
+
+.sky-filled:hover {
+  background: #81e0ef;
+  border: 3px solid #81e0ef;
+  box-shadow: 0px 0px 8px 4px #81e0ef;
+}
+
+.pink-outlined {
+  color: #f46ce0;
+  border: 3px solid #f46ce0;
+  box-shadow: 0px 0px 8px 4px #ff84d4;
+}
+
+.pink-outlined:hover {
+  color: #fe5ac5;
+  border: 3px solid #fe5ac5;
+  box-shadow: 0px 0px 8px 4px #fe5ac5;
+}
+
+.purple-outlined {
+  color: #a681f5;
+  border: 3px solid #a681f5;
+  box-shadow: 0px 0px 8px 4px #ac86ff;
+}
+
+.purple-outlined:hover {
+  color: #7542e3;
+  border: 3px solid #8b60e8;
+  box-shadow: 0px 0px 8px 4px #a67efe;
+}
+
+.sky-outlined {
+  border: 3px solid #b9e3ea;
+  box-shadow: 0px 0px 8px 4px #81e0ef;
+  color: #66d6e7;
+}
+
+.sky-outlined:hover {
+  color: #66d6e7;
+  border: 3px solid #66d6e7;
+  box-shadow: 0px 0px 8px 4px #66d6e7;
+}
